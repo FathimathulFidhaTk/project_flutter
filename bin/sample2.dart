@@ -8,5 +8,4 @@ void main(){
   print("My Age is $age");
   print(course);
   print(mark);
-
 }
