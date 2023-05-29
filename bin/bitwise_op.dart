@@ -1,12 +1,12 @@
 void main(){
-  int a = 7; //0111
-  int b = 5; //0101
+  int a = 5; //0111
+  int b = 7; //0101
 
   print(a & b);//0101
   print(a | b);//0111
-  print(a ^ b);//0010
+  print(a ^ b);//0010 // 2 same aya opposite ayirku edkn
 
 
-  print( a >> 2);// 0000  0001
-  print(a << 1);// 0000 1010
+  print( a >> b);// 1110 0000 //left shift
+  print( a << b );// 0000 0010 // right shift
 }
