@@ -8,7 +8,7 @@ void main(){
   print("The Fibonacci series is ");
   print(n1);
   print(n2);
-  for(int i=2; i < count; ++i){
+  for(int i=2; i <= count; ++i){
     n3 = n1 + n2;
     print(n3);
     n1 = n2;
