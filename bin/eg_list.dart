@@ -37,5 +37,15 @@ void main(){
   var List5 = List.unmodifiable(numbers); ///cannot be modified
   print(numbers);
 
+  print("");
+  print(List3);
+  print("");
+  List3.remove(2);
+  print(List3);
+
+  print("");
+  List3.addAll(List2);
+  List3.removeAt(6);
+  print(List3);
 
 }
