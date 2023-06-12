@@ -37,3 +37,5 @@ void main(){
    print("Parent Age : ${obj1.age}");
    print("");
 }
+
+//argument pass chythh chyth vrn
