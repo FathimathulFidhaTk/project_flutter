@@ -5,7 +5,7 @@ class my_class{
     print("Inside a Constructor");
   }
   my_class.name(){
-    //another constructor using .
+    //another constructor using .ie NAMED CONSTRUCTOR
     print("Fidha");
 }
   void show() {
