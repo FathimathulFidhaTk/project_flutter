@@ -1,0 +1,10 @@
+void main(){
+  print("Welcome");
+  try {
+    int div = 10~/0;
+  }
+  catch(obj){
+    print(obj);
+  }
+  print("Thank uhh");
+}
