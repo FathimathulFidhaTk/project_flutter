@@ -4,7 +4,7 @@ class bank{
   int amount = 50000;
   late int balance;
   void deposit(){
-    print("Enter the amount to deposit");
+    print("Enter the amount to deposit:");
     balance = int.parse(stdin.readLineSync()!);
     balance+=amount;
     print("The balance after deposit is : $balance");
@@ -31,3 +31,6 @@ void main(){
   cr.withdrawal();
   cr.amt();
 }
+
+
+

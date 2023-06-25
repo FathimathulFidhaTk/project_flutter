@@ -6,11 +6,29 @@ class myclass{
   }
 
   void disp(){
-    print(".......");
+    print("My Details");
   }
 }
 void main() {
   var obj = myclass();
   // print(obj.call("fidha", 21));
+  obj.disp();
   obj.call("Fidha", 21);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
