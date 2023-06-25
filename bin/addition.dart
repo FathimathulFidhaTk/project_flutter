@@ -1,10 +1,3 @@
-void main(){
-  add();
-  sub();
-  mul();
-  div();
-}
-
 void add(){
   int a = 10,
   b = 20,
@@ -32,4 +25,10 @@ void div(){
   div = a~/b; //integer o/p kitan
  // double div = a/b; // point value kitan
   print("$a / $b = $div");
+}
+void main(){
+  add();
+  sub();
+  mul();
+  div();
 }
