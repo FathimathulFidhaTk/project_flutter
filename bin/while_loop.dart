@@ -4,9 +4,4 @@ void main(){
     print(i);
     i++;
   }
-  int week=1;
-  while(week<=7){
-    print(week);
-    week++;
-  }
 }

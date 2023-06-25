@@ -7,7 +7,7 @@ sub(int a ,int b){
 }
 void main() {
   math obj = add;
-  obj(25,5);
+  obj(20,5);
   obj(10,5);
   math obj1 = sub;
   obj1(15,5);
