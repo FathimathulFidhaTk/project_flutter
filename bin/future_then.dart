@@ -1,6 +1,6 @@
 void main(){
   print("start fetching recipes");
-  Future.delayed(Duration(seconds: 2),()
+  Future.delayed(Duration(seconds: 3),()
   {
     print("recipes fetched");
   }).then((_) {
