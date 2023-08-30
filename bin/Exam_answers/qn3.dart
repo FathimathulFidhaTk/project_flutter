@@ -1,3 +1,5 @@
+//Create a list of names and check their property.
+
 void main(){
   var list = ['Amal','Arjun','Regha','Seetha'];
   print(list);

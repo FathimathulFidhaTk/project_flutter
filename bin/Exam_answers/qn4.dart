@@ -1,3 +1,5 @@
+/// write a dart program to create a class laptop with properties [id, name, ram]and create obj of it and print
+
 class laptop{
   void lap(int id,String name,int ram){
     print("Laptop id :$id");

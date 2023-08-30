@@ -1,3 +1,7 @@
+///write a dart prgm to create a class animal with properties [ id, name, color].
+///create another class called cat and extends it from animal.
+///add new properties sound in string. Create an object of a cat and print all details
+
 class animal{
   void animal_details(int id, String name, String color){
     print("Animal id is $id");

@@ -1,3 +1,6 @@
+/// write a dart program to create classs camera with private properties[id,brand,color,prize].
+/// create a getter and setter to get and set values. Also, create 3 objects of it and print all details
+
 import 'qn6.dart';
 
 void main(){
