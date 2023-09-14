@@ -11,6 +11,6 @@ void main(){
   double mark = double.parse(stdin.readLineSync()!);
   print("My name is $name");
   print("My age is $age");
-  stdout.writeln(course); // for outputting - next line l print avn
+  stdout.writeln(course);  // for outputting - next line l print avn
   stdout.write(mark); // same line ayirikum print avn
 }
